@@ -19,6 +19,5 @@ class Detail extends controller{
             "lhh"=> $this->categoryModel->listAll(),
         ]);
     }
-
 }
 ?>

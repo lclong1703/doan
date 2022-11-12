@@ -30,7 +30,5 @@ class Register extends controller{
             ]);
         }
     }
-
-
 }
 ?>

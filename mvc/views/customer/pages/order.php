@@ -66,6 +66,4 @@
             arrDelete[i].innerText = 'Không thể xóa đơn';
         }
     }
-
-
 </script>

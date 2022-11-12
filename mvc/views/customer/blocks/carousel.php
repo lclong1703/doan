@@ -45,6 +45,3 @@
 <div class="row">
   <img src="https://techworldmobile.vn/media/banner/09_Novecc720f28e434b3b796f0a3b9b1ba1de.jpg" alt="" width="100%">
 </div> 
-
-
-
