@@ -19,9 +19,9 @@ class Order extends controller{
         ]);
     }
 
-    public function deleteOrder($sodondh){
-        $this->orderModel->deleteDetailOrder($sodondh);
-        $this->orderModel->deleteOrder($sodondh);
+    public function deleteOrder($id){
+        $this->orderModel->deleteDetailOrder($id);
+        $this->orderModel->deleteOrder($id);
         $this->href('Xóa đơn hàng thành công', '/LuCamLong_B1809478/customer/order');
     }
 }
