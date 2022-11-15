@@ -10,7 +10,7 @@
     <link rel="stylesheet" href="/LuCamLong_B1809478/public/css/main.css">
     <link rel="icon" type="image/x-icon" href="/LuCamLong_B1809478/public/img/logo/logo2.png">
 </head>
-<body style="background-color: #a9dfef">
+<body>
     <div class="container">
         <?php
         require_once "./mvc/views/admin/pages/login.php";

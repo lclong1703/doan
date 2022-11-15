@@ -11,10 +11,10 @@
           <img src="https://cdn2.cellphones.com.vn/690x300/https://dashboard.cellphones.com.vn/storage/sliding-fold4-th11-v2.jpg" class="d-block " alt="..." width="100%">
         </div>
         <div class="carousel-item">
-          <img src="https://cdn2.cellphones.com.vn/690x300/https://dashboard.cellphones.com.vn/storage/690x300_dyson_sliding.jpg" class="d-block " alt="..." width="100%">
+          <img src="https://cdn2.cellphones.com.vn/690x300/https://dashboard.cellphones.com.vn/storage/ipad-gen9-sliding-t11.png" class="d-block " alt="..." width="100%">
         </div>
         <div class="carousel-item">
-          <img src="https://cdn2.cellphones.com.vn/690x300/https://dashboard.cellphones.com.vn/storage/xiaomi-12t-sliding.jpg" class="d-block " alt="..." width="100%">
+          <img src="https://cdn2.cellphones.com.vn/690x300/https://dashboard.cellphones.com.vn/storage/vivo-v25-pro-sliding-pre.jpg" class="d-block " alt="..." width="100%">
         </div>
       </div>
       <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">

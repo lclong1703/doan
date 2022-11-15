@@ -6,6 +6,7 @@ class Order extends controller{
     public function __construct(){
         $this->userModel = $this->model("UserModel");
         $this->orderModel = $this->model("OrderModel");
+        $this->categoryModel = $this->model("CategoryModel");
     }
 
     public function customer(){
@@ -14,6 +15,7 @@ class Order extends controller{
         $this->view("Customer","master2",[
             "page"=>"order",
             "order"=> $this->orderModel->getOrderByMSKH($mskh),
+            "lhh"=>$this->categoryModel->listAll(),
         ]);
     }
 
