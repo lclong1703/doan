@@ -1,3 +1,4 @@
+<!-- update order -->
 <?php
 $arr = json_decode($data['dh'], true);
 $status = array("Chờ duyệt", "Đã duyệt", "Đã giao");

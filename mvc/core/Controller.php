@@ -1,3 +1,4 @@
+<!-- call model -> handle and view -> show -->
 <?php
 class Controller{
 

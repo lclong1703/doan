@@ -1,3 +1,4 @@
+<!-- show orders -->
 <h2>Đơn hàng</h2>
 
 <table class="mt-3 table table-striped">

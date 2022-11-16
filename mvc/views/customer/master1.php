@@ -1,3 +1,4 @@
+<!-- component home page -->
 <!DOCTYPE html>
 <html lang="en">
 

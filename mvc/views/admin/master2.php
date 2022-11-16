@@ -1,3 +1,4 @@
+<!-- for page other -->
 <?php
 if (isset($data['result']) && $data['result'] != "") {
     $_SESSION['admin'] = $data['result'];

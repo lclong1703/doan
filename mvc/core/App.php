@@ -1,3 +1,4 @@
+<!-- run web -->
 <?php
 class App{
     protected $option="customer";
@@ -22,11 +23,9 @@ class App{
         require_once "./mvc/controllers/".$this->option."/". $this->controller .".php";
         $this->controller = new $this->controller;
 
-
         if( $this->option != $this->action ){
             $this->action = $this->option;
         }
-
         // Action
         if(isset($arr[2])){
             if( method_exists( $this->controller , $arr[2]) ){
@@ -34,12 +33,10 @@ class App{
             }
             unset($arr[2]);
         }
-
+        
         // Params
         $this->params = $arr?array_values($arr):[];
-
         call_user_func_array([$this->controller, $this->action], $this->params );
-
     }
 
     function UrlProcess(){

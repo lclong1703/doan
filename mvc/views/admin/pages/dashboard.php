@@ -1,3 +1,4 @@
+<!-- dashboard -->
 <h2>Trang chủ</h2>
 <div class="mt-3 d-flex stat-cards">
     <article class="stat-cards-item" style="border-left: 4px solid blue;">

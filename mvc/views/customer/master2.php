@@ -1,3 +1,4 @@
+<!-- component page other -->
 <!DOCTYPE html>
 <html lang="en">
 <head>

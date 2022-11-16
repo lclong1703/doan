@@ -1,3 +1,4 @@
+<!-- nav -->
 <?php
 if (isset($data['result']) && $data['result'] != '') {
     $_SESSION['admin'] = $data['result'];

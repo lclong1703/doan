@@ -1,3 +1,4 @@
+<!-- connect db and handle logic use pdo -->
 <?php
 
 class DB{
@@ -10,11 +11,6 @@ class DB{
         $dbconfig = parse_ini_file(".env");
 		// data source name
 		$dsn = 'mysql:host=' . $dbconfig["DB_HOST"] . ';dbname='. $dbconfig["DB_DATABASE"];
-
-		// $option = [
-		// 	PDO::ATTR_PERSISTENT => true,
-		// 	PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION
-		// ];
 
 		try{
 			$this->pdo = new PDO($dsn, $dbconfig["DB_USERNAME"], $dbconfig["DB_PASSWORD"]);

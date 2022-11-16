@@ -1,3 +1,4 @@
+<!-- show information -->
 <div class="row mt-4">
     <div class="col-3">
         <h3>Thông tin cá nhân</h3>

@@ -1,3 +1,4 @@
+<!-- show products -->
 <h2>Sản phẩm</h2>
 <a href="/LuCamLong_B1809478/admin/product/addProduct" class="mt-3 btn btn-primary">Thêm sản phẩm</a>
 <table class="mt-3 table table-striped">

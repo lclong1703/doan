@@ -1,3 +1,4 @@
+<!-- show cart -->
 <?php
 if (!isset($_SESSION['cart']) || $_SESSION['cart'] == null) {
 ?>

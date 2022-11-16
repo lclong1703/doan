@@ -1,3 +1,4 @@
+<!-- show categories -->
 <h2>Danh mục</h2>
 <a href="/LuCamLong_B1809478/admin/category/addCategory" class="mt-3 btn btn-primary">Thêm danh mục</a>
 <table class="mt-3 table table-striped">

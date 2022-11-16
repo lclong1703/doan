@@ -1,3 +1,4 @@
+<!-- show products -->
 <h3>Sản phẩm mới nhất</h3>
 <div class="row">
         <?php

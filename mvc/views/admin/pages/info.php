@@ -1,3 +1,4 @@
+<!-- information -->
 <?php
 $arr = json_decode($data['info'], true);
 ?>

@@ -1,3 +1,4 @@
+<!-- add category -->
 <h3>Thêm danh mục</h3>
 <form action="/LuCamLong_B1809478/admin/category/addCategory" method="POST" enctype="multipart/form-data">
     <div class="mb-3">

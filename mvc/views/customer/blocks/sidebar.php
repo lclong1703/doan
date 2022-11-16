@@ -1,3 +1,4 @@
+<!-- sidebar -->
 <h2>Danh mục</h2>
 <ul class="list-group">
   <li class="list-group-item" aria-current="true" style="background-color: #0d6efd94;">

@@ -1,3 +1,4 @@
+<!-- form login -->
 <div class="form">
     <h2 class="header-form">Đăng nhập</h2>
     <form action="/LuCamLong_B1809478/customer/Login/loginCustomer" method="POST">

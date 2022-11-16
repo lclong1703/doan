@@ -1,3 +1,4 @@
+<!-- show product detail -->
 <div class="row mt-3">
     <div class="col-7">
         <?php
