@@ -16,19 +16,18 @@
     <div class="container">
         <?php
         require_once "./mvc/views/Customer/blocks/header.php";
-
         ?>
         <div class="container">
             <?php
             require_once "./mvc/views/Customer/blocks/carousel.php";
             ?>
             <div class="row">
-                <div id="leftCol" class="col-3">
+                <div id="leftCol" class="col-12 col-md-3">
                     <?php
                     require_once "./mvc/views/Customer/blocks/sidebar.php";
                     ?>
                 </div>
-                <div id="rightCol" class="col-9">
+                <div id="rightCol" class="col-12 col-md-9">
                     <?php
                     require_once "./mvc/views/Customer/pages/" . $data['page'] . ".php";
                     ?>
